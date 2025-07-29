@@ -1,23 +1,20 @@
-# Ang-Ggo (portfolio_python)
+# 🗺️ ANG-GGO - Real-Time Map-Based Info Platform (portfolio_python)
 
 
 KR | EN | JP ⭕
 
 
-앙꼬(지도 기반 정보제공 사이트)
+**앙꼬**(지도 기반 정보제공 사이트)
 - 유저들이 가고자 하는 목적지의 혼잡도, 대략적인 인원현황 등을 실시간으로 파악하여
   긴 웨이팅을 방지하는 정보 제공 사이트 구축
 
-
-# 🗺️ ANG-GGO - Real-Time Map-Based Info Platform
-
-ANG-GGO is a Python-based platform designed to help users avoid crowds and long queues  
+**ANG-GGO** is a Python-based platform designed to help users avoid crowds and long queues  
 by offering real-time congestion data and personalised location insights.
 
 **ANG-GGO** は、地図ベースで目的地の混雑状況や人流をリアルタイムで把握できる  
 Python製の情報提供サービスです。混雑を避け、スムーズな移動や訪問計画をサポートします。
 
----
+
 
 ## 🔤 Project Name Meaning
 
@@ -32,7 +29,7 @@ that’s easy to remember and appeals to “찐빵” (loyal) users.
 > **「꼬」**：カジュアルな「Go!（行こう）」の発音 🚶  
 → 覚えやすく、親しみやすいブランドネームとして命名。
 
----
+
 
 ## 🚀 Key Features
 
@@ -41,27 +38,31 @@ that’s easy to remember and appeals to “찐빵” (loyal) users.
 - 📍 **リアルタイム混雑表示**  
   → Tmap APIを使って、地域別の推定混雑状況を可視化
 
+
 - 🍽️ **Restaurant/Cafe Info & Booking**  
   → Shows venue details and supports reservation
 - 🍽️ **飲食店情報・予約機能**  
   → マップ上で店舗情報確認＆来店予約に対応
+
 
 - 🎁 **Gamified User Rewards**  
   → Daily check-ins, coupon draws, and mileage points
 - 🎁 **ゲーミフィケーション（報酬）システム**  
   → 毎日の出席チェック、クーポン抽選、マイレージ獲得
 
+
 - 🗺️ **Live Map Overlay**  
   → Traffic and weather info by region (Tmap API)
 - 🗺️ **天気・交通情報**  
   → 地域ごとの気象・交通データをAPIで取得しマップに反映
+
 
 - ✨ **Intuitive UX**  
   → Fully AJAX-driven interaction with immediate feedback
 - ✨ **直感的なUI/UX**  
   → すべてのイベントがAJAXでリアルタイム反映
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -73,7 +74,7 @@ that’s easy to remember and appeals to “찐빵” (loyal) users.
 | **API**       | Tmap Puzzle API, KakaoPay API, Public Weather APIs |
 | **Others**    | Slack, GitHub, Figma (for collaboration & UI/UX) |
 
----
+
 
 ## 👩‍💻 My Role – Hyejin Hwang
 
@@ -87,7 +88,7 @@ that’s easy to remember and appeals to “찐빵” (loyal) users.
 - マップ上での混雑ビジュアル化・API統合処理  
 - レイアウト・フィードバック・アラート設計など全体UX調整
 
----
+
 
 ## 🎯 Goals & Outcome
 
